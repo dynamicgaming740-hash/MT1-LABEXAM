@@ -8,6 +8,18 @@
     "start-express": "node expressApp.js"
   },
   "dependencies": {
-    "express": "^4.19.2"
-  }
+    "express": "^4.22.3"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dynamicgaming740-hash/MT1-LABEXAM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dynamicgaming740-hash/MT1-LABEXAM/issues"
+  },
+  "homepage": "https://github.com/dynamicgaming740-hash/MT1-LABEXAM#readme"
 }
